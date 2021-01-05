@@ -2,13 +2,12 @@ package gomail_test
 
 import (
 	"fmt"
-	"gomail"
 	"html/template"
 	"io"
 	"log"
 	"time"
 
-	"github.com/lzk97224/gomail"
+	"gomail"
 )
 
 func Example() {
